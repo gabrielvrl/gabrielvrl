@@ -15,4 +15,11 @@
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/gabrielvrl/)
 - ⚡ Fun fact: I'm a huge Naruto <img src="https://user-images.githubusercontent.com/22225821/99891010-119f8f80-2c44-11eb-96ec-5fb56fdf05b3.png" alt="Avatar Konoha" border="0" width="15"> and Dragon Ball fan <img src="https://user-images.githubusercontent.com/22225821/99891021-2e3bc780-2c44-11eb-850c-d8299707cf3c.png" alt="Avatar Goku" border="0" width="25">
 
+## Stats
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabrielvrl&show_icons=true&hide_border=true" />
+</details>
+
 ![](https://komarev.com/ghpvc/?username=gabrielvrl)
