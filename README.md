@@ -4,7 +4,7 @@
 
 ## Hi, there! I'm Gabriel Varela 👋
 
-### :computer: I'm a Brazilian Software Developer and Mechatronics Engineering student at UFRN.
+### :computer: I'm a Brazilian Software Developer @tembici, Ignite Student @rocketseat and Mechatronics Engineering student at UFRN.
 
 ### :dart: My main goal is to build stuff through code and technology that are meaningful and helps people.
 
