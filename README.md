@@ -4,9 +4,9 @@
 
 ## Hi, there! I'm Gabriel Varela 👋
 
-### :computer: I'm a Brazilian Software Developer <a href="https://tembici.com.br/">@tembici</a>, Ignite Student <a href="https://rocketseat.com.br/">@rocketseat</a> and Mechatronics Engineering student <a href="https://www.ufrn.br/">@UFRN</a>
+#### :computer: I'm a Brazilian Software Developer <a href="https://tembici.com.br/">@tembici</a>, Ignite Student <a href="https://rocketseat.com.br/">@rocketseat</a> and Mechatronics Engineering student <a href="https://www.ufrn.br/">@UFRN</a>
 
-### :dart: My main goal is to build stuff through code and technology that are meaningful and helps people.
+#### :dart: My main goal is to build stuff through code and technology that are meaningful and helps people.
 
 - 🔭 I’m currently working @Tembici
 - 🌱 I’m currently learning ReactJS and React Native <img src="https://user-images.githubusercontent.com/22225821/99891807-bd4cdd80-2c4c-11eb-9f19-244a55bbaf48.png" alt="Avatar React" border="0" width="30">
