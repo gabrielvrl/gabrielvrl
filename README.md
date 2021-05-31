@@ -1,7 +1,7 @@
-### Hi, there! I'm Gabriel Varela 👋
+# Hey, there! I'm Gabriel Varela 👋
 
-#### :bike: Front-end & Mobile Engineer <a href="https://tembici.com.br/">@tembici</a>
-#### 🔥 Ignite Student <a href="https://rocketseat.com.br/">@rocketseat</a>
+#### :bike: Front-end & Mobile Engineer <a href="https://tembici.com.br/">@Tembici</a>
+#### 🔥 Ignite student <a href="https://rocketseat.com.br/">@Rocketseat</a>
 #### 🤖 Mechatronics Engineering student <a href="https://www.ufrn.br/">@UFRN</a>
 
 #### :dart: My main goal is to build stuff through code and technology that are meaningful and helps people.
