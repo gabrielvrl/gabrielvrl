@@ -1,4 +1,4 @@
-# Hey, there! I'm Gabriel Varela 👋
+# Hey, there! I'm Gabriel Varela :smiley:
 
 #### :bike: Front-end & Mobile Engineer <a href="https://tembici.com.br/">@Tembici</a>
 #### 🔥 Ignite student <a href="https://rocketseat.com.br/">@Rocketseat</a>
