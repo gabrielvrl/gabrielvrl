@@ -1,6 +1,6 @@
 # Hey, there! I'm Gabriel Varela :smiley:
 
-#### 🔥 Tech Content Creator <a href="instagram.com/gabrielvrl.dev">@gabrielvrl.dev</a>
+#### 🔥 Tech Content Creator <a href="https://www.instagram.com/gabrielvrl.dev/">@gabrielvrl.dev</a>
 #### :bike: Front-end Engineer <a href="https://tembici.com.br/">@Tembici</a>
 #### 🤖 Mechatronics Engineering student <a href="https://www.ufrn.br/">@UFRN</a>
 
