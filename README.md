@@ -1,10 +1,10 @@
-# Hi, there! 👋 I'm Gabriel Varela :smiley:
+# Hi, there! I'm Gabriel Varela 👋
 
 #### 🔥 Tech Content Creator <a href="https://www.instagram.com/gabrielvrl.dev/">@gabrielvrl.dev</a>
-#### :bike: Front-end Engineer <a href="https://tembici.com.br/">@Tembici</a>
-#### 🤖 Mechatronics Engineering student <a href="https://www.ufrn.br/">@UFRN</a>
+#### :bike: Software Engineer <a href="https://tembici.com.br/">@Tembici</a>
+#### 🤖 Mechatronics Engineering Student <a href="https://www.ufrn.br/">@UFRN</a>
 
-#### :dart: My main goal is to build stuff through code and technology that are meaningful and helps people.
+#### :dart: Right now i'm focused on Front-end and Mobile development with ReactJS, Next.js and React Native with Expo.
 
 ##
 
