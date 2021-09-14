@@ -4,7 +4,7 @@
 #### :bike: Software Engineer <a href="https://tembici.com.br/">@Tembici</a>
 #### 🤖 Mechatronics Engineering Student <a href="https://www.ufrn.br/">@UFRN</a>
 
-#### :dart: Right now i'm focused on Front-end and Mobile development with ReactJS, Next.js and React Native with Expo.
+#### :dart: Focused on Front-end and Mobile development with ReactJS, Next.js and React Native with Expo.
 
 ##
 
