@@ -4,9 +4,9 @@
 #### My engineering background also consists, but it's not limited to, Node.js, MongoDB, SQLite, C++, Python, Machine Learning, Artificial Intelligence, Networks and Graphs.
 
 
-##### 🔥 Tech Content Creator <a href="https://www.instagram.com/gabrielvrl.dev/">@gabrielvrl.dev</a>
-##### :bike: Software Engineer <a href="https://tembici.com.br/">@Tembici</a>
-##### 🤖 Mechatronics Engineering Student <a href="https://www.ufrn.br/">@UFRN</a>
+#### 🔥 Tech Content Creator <a href="https://www.instagram.com/gabrielvrl.dev/">@gabrielvrl.dev</a>
+#### :bike: Software Engineer <a href="https://tembici.com.br/">@Tembici</a>
+#### 🤖 Mechatronics Engineering Student <a href="https://www.ufrn.br/">@UFRN</a>
 
 #### Contact me:
 <div>
