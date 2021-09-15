@@ -4,8 +4,8 @@
 #### :bike: Software Engineer <a href="https://tembici.com.br/">@Tembici</a>
 #### 🤖 Mechatronics Engineering Student <a href="https://www.ufrn.br/">@UFRN</a>
 
-#### I'm a Brazilian SWE focused on develop high quality Front-end and Mobile applications using ReactJS, Next.js and React Native with Expo. A bit of back-end enthusiastic.
-#### My engineering background also consists, but it's not limited to, Node.js, MongoDB, SQLite, C++, Python, Machine Learning, Artificial Intelligence, Networks and Graphs.
+#### • I'm a Brazilian SWE focused on develop high quality Front-end and Mobile applications using ReactJS, Next.js and React Native with Expo. A bit of back-end enthusiastic.
+#### • My engineering background also consists, but it's not limited to, Node.js, MongoDB, SQLite, C++, Python, Machine Learning, Artificial Intelligence, Networks and Graphs.
 
 #### Contact me:
 <div>
