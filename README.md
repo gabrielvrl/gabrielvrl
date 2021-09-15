@@ -1,12 +1,11 @@
 ### Hey! I'm Gabriel Varela. Nice to meet you 🤝
 
-#### I'm a Brazilian SWE focused on high quality Front-end and Mobile Development using ReactJS, Next.js and React Native with Expo. A bit of back-end enthusiastic.
-#### My engineering background also consists, but it's not limited to, Node.js, MongoDB, SQLite, C++, Python, Machine Learning, Artificial Intelligence, Networks and Graphs.
-
-
 #### 🔥 Tech Content Creator <a href="https://www.instagram.com/gabrielvrl.dev/">@gabrielvrl.dev</a>
 #### :bike: Software Engineer <a href="https://tembici.com.br/">@Tembici</a>
 #### 🤖 Mechatronics Engineering Student <a href="https://www.ufrn.br/">@UFRN</a>
+
+#### I'm a Brazilian SWE focused on high quality Front-end and Mobile Development using ReactJS, Next.js and React Native with Expo. A bit of back-end enthusiastic.
+#### My engineering background also consists, but it's not limited to, Node.js, MongoDB, SQLite, C++, Python, Machine Learning, Artificial Intelligence, Networks and Graphs.
 
 #### Contact me:
 <div>
