@@ -7,6 +7,11 @@
 #### • I'm a Brazilian SWE focused on develop high quality Front-end and Mobile applications using ReactJS, Next.js and React Native with Expo. A bit of back-end enthusiastic.
 #### • My engineering background also consists, but it's not limited to, Node.js, MongoDB, SQLite, C++, Python, Machine Learning, Artificial Intelligence, Networks and Graphs.
 
+
+#### ~ Current studying: Next.js and React Native
+#### ~ Short-term goals: GraphQL and UX/UI
+#### ~ Long-term goals: TDD, Serveless and deepening my backend knowledge
+
 #### Contact me:
 <div>
   <a href="https://www.linkedin.com/in/gabrielvrl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
