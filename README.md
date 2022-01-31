@@ -2,7 +2,7 @@
 
 🔥 Tech Content Creator <a href="https://www.instagram.com/gabrielvrl.dev/">@gabrielvrl.dev</a> <br>
 
-:bike: Software Engineer <a href="https://tembici.com.br/">@Tembici</a> <br>
+:bike: Front-end Engineer <a href="https://tembici.com.br/">@Tembici</a> <br>
 
 🤖 Mechatronics Engineering Student <a href="https://www.ufrn.br/">@UFRN</a> <br>
 
