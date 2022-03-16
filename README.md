@@ -9,7 +9,7 @@ My engineering background also consists, but it's not limited to, Node.js, Mongo
 
 - 🔭 I’m currently working at **[Tembici](https://www.tembici.com.br/)**
 - 🌱 I’m currently learning all about Front-end development
-- 👯 I’m looking to collaborate on complex software problems
+- 👯 I'm looking to collaborate on complex software engineer problems
 - 🤔 I’m looking for help with software development fluxes
 - 💬 Ask me about software, animes or football!
 - 📫 How to reach me: https://www.linkedin.com/in/gabrielvrl/
