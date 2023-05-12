@@ -11,4 +11,4 @@ My engineering background also consists, but it's not limited to, Node.js, Mongo
 - 🌱 React.js & React Native
 - 👯 Looking to collaborate on complex software engineer problems
 - 📫 How to reach me: https://www.linkedin.com/in/gabrielvrl/
-- ⚡ Fun fact: Although I work at a bike sharing company, I don't actually know how to ride a bike properly.
+- ⚡ Fun fact: 
