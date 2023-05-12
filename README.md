@@ -7,7 +7,7 @@ What drives me is to develop and ship products and/or services that impacts the 
 
 My engineering background also consists, but it's not limited to, Node.js, MongoDB, SQLite, C++, Python, Machine Learning, Artificial Intelligence, Networks and Graphs.
 
-- 🔭 I’m currently working at **[Tembici](https://www.tembici.com.br/)**
+- 🔭 I’m currently working at 
 - 🌱 React.js & React Native
 - 👯 Looking to collaborate on complex software engineer problems
 - 📫 How to reach me: https://www.linkedin.com/in/gabrielvrl/
